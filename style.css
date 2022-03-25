@@ -10,7 +10,7 @@ body {
 
 #resumo {
     font-family: Arial, Helvetica, sans-serif;
-    background-color:white;
+    color:white;
   /*Efeito Glass (estava ocorrendo travamento nas paginas,entao substitiui por Background-color:white
     background: rgba(255, 255, 255, 0.212);
     backdrop-filter: blur(600px);
