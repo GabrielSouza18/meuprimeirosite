@@ -1,2 +1,2 @@
-# Meu Primeiro Site
-Colocando meu primeiro site em pratica, construido em HTML e CSS.
+# Meu Primeiro Site simples
+Colocando meu aprendizado em pratica, construido em HTML e CSS.
