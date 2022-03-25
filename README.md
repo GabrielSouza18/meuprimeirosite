@@ -7,9 +7,8 @@ Colocando meu aprendizado em pratica..
   
 </div>
 <h1>Preview</h1>
-<div class="imagem1">
-<img width="650px" src="./download/image.png"></div>
 
+<img width="650px" src="./download/image.png">
 
 
 
