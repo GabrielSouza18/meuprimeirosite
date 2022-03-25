@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(to right top, #22262a, #252b2e, #282f32, #2b3436, #2f3939);
+}
+
+#titulos {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+#resumo {
+    font-family: Arial, Helvetica, sans-serif;
+  /*Efeito Glass*/
+    background: rgba(255, 255, 255, 0.212);
+    backdrop-filter: blur(600px);
+    -webkit-backdrop-filter: blur(600px);
+}
+
+#resumo2 {
+    font-style: italic;
+}
+
+#sobre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #FEFEDF;
+    font-style: italic;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    filter: drop-shadow(0 0 10px rgb(255, 1, 1));
+    padding: 25px;
+}
